@@ -2,8 +2,8 @@
 Ez a repo az OTIO versenyre készült NAS projektem dukumentációját tartalmazza
 
 
-##Hogyan vehetjük vissza adatainkat a nagycégektől?
-##Homalab kezdőknek
+## Hogyan vehetjük vissza adatainkat a nagycégektől?
+## Homalab kezdőknek
 
 A projekt célja hogy kiépítsek egy saját szerverstruktúrát amivel helyettesíthetem bizonyos nagycégek szolgáltatásait.
 Projektem elkészültével lehetőségem lesz helyettesíteni Microsoft Azure és AWS szolgáltatásait, Google Drive és web alapú office szolgáltatásait és a Dropbox file megosztó szolgáltatását
@@ -11,7 +11,7 @@ Ezen kívül a projekt célja az is hogy az adatain saját kezünkbe saját irá
 Szintén fontos feltétel a redundancia és a hálózatbiztonság.
 A hálózatbiztonságért egy reverse proxy és egy VPN felelős, a Redundanciát pedig egy Mirror adattároló biztosítja.
 
-##Felhasznált Hardware
+## Felhasznált Hardware
 Szerver számítógép:
 A
 
