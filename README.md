@@ -3,7 +3,7 @@ Ez a repo az OTIO versenyre készült NAS projektem dukumentációját tartalmaz
 
 
 ##Hogyan vehetjük vissza adatainkat a nagycégektől?\
-###Homalab kezdőknek\
+##Homalab kezdőknek\
 
 A projekt célja hogy kiépítsek egy saját szerverstruktúrát amivel helyettesíthetem bizonyos nagycégek szolgáltatásait.\
 Projektem elkészültével lehetőségem lesz helyettesíteni Microsoft Azure és AWS szolgáltatásait, Google Drive és web alapú office szolgáltatásait és a Dropbox file megosztó szolgáltatását\
